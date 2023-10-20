@@ -1,5 +1,6 @@
 { "compressionlevel":-1,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "height":80,
  "infinite":false,
  "layers":[
@@ -86,6 +87,8 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":80,
 =======
+=======
+>>>>>>> Stashed changes
  "height":30,
  "infinite":false,
  "layers":[
@@ -894,7 +897,10 @@
                 }, 
                 {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
                  "gid":2566,
                  "height":64,
                  "id":681,
@@ -1043,7 +1049,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1412,
+=======
+                 "id":1269,
+>>>>>>> Stashed changes
 =======
                  "id":1269,
 >>>>>>> Stashed changes
@@ -1059,8 +1069,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":861.233811078,
                  "y":576.119377333363
+=======
+                 "x":1078.50918775906,
+                 "y":831.826280793929
+>>>>>>> Stashed changes
 =======
                  "x":1078.50918775906,
                  "y":831.826280793929
@@ -1070,7 +1085,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1418,
+=======
+                 "id":1270,
+>>>>>>> Stashed changes
 =======
                  "id":1270,
 >>>>>>> Stashed changes
@@ -1086,8 +1105,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":902.613121422828,
                  "y":576.998049108586
+=======
+                 "x":1126.52003859049,
+                 "y":831.810905721702
+>>>>>>> Stashed changes
 =======
                  "x":1126.52003859049,
                  "y":831.810905721702
@@ -1097,7 +1121,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1419,
+=======
+                 "id":1271,
+>>>>>>> Stashed changes
 =======
                  "id":1271,
 >>>>>>> Stashed changes
@@ -1113,8 +1141,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":989.203351307885,
                  "y":576.303337742047
+=======
+                 "x":1175.34348814146,
+                 "y":832.045905721702
+>>>>>>> Stashed changes
 =======
                  "x":1175.34348814146,
                  "y":832.045905721702
@@ -1124,7 +1157,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1421,
+=======
+                 "id":1272,
+>>>>>>> Stashed changes
 =======
                  "id":1272,
 >>>>>>> Stashed changes
@@ -1140,8 +1177,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":944.758906863441,
                  "y":577.325049108586
+=======
+                 "x":838.560068027211,
+                 "y":830.55664389234
+>>>>>>> Stashed changes
 =======
                  "x":838.560068027211,
                  "y":830.55664389234
@@ -1151,7 +1193,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1420,
+=======
+                 "id":1273,
+>>>>>>> Stashed changes
 =======
                  "id":1273,
 >>>>>>> Stashed changes
@@ -1167,8 +1213,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1074.00501158886,
                  "y":573.60591500897
+=======
+                 "x":886.940068027211,
+                 "y":830.79164389234
+>>>>>>> Stashed changes
 =======
                  "x":886.940068027211,
                  "y":830.79164389234
@@ -1178,7 +1229,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1422,
+=======
+                 "id":1274,
+>>>>>>> Stashed changes
 =======
                  "id":1274,
 >>>>>>> Stashed changes
@@ -1194,8 +1249,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1032.11484556076,
                  "y":574.627626375508
+=======
+                 "x":934.950068027211,
+                 "y":831.77564389234
+>>>>>>> Stashed changes
 =======
                  "x":934.950068027211,
                  "y":831.77564389234
@@ -1205,7 +1265,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1423,
+=======
+                 "id":1275,
+>>>>>>> Stashed changes
 =======
                  "id":1275,
 >>>>>>> Stashed changes
@@ -1221,8 +1285,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1117.42812780852,
                  "y":573.238203642431
+=======
+                 "x":983.780068027211,
+                 "y":832.01064389234
+>>>>>>> Stashed changes
 =======
                  "x":983.780068027211,
                  "y":832.01064389234
@@ -1232,7 +1301,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1424,
+=======
+                 "id":1276,
+>>>>>>> Stashed changes
 =======
                  "id":1276,
 >>>>>>> Stashed changes
@@ -1248,8 +1321,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1159.31791069486,
                  "y":573.60591500897
+=======
+                 "x":1029.95432712215,
+                 "y":761.546933007986
+>>>>>>> Stashed changes
 =======
                  "x":1029.95432712215,
                  "y":761.546933007986
@@ -1259,7 +1337,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1425,
+=======
+                 "id":1277,
+>>>>>>> Stashed changes
 =======
                  "id":1277,
 >>>>>>> Stashed changes
@@ -1275,8 +1357,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":861.362170592687,
                  "y":649.356344766313
+=======
+                 "x":1078.33432712215,
+                 "y":761.780933007986
+>>>>>>> Stashed changes
 =======
                  "x":1078.33432712215,
                  "y":761.780933007986
@@ -1286,7 +1373,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1426,
+=======
+                 "id":1278,
+>>>>>>> Stashed changes
 =======
                  "id":1278,
 >>>>>>> Stashed changes
@@ -1302,8 +1393,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":902.741170592687,
                  "y":650.234344766313
+=======
+                 "x":1126.34432712215,
+                 "y":761.765933007986
+>>>>>>> Stashed changes
 =======
                  "x":1126.34432712215,
                  "y":761.765933007986
@@ -1313,7 +1409,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1427,
+=======
+                 "id":1279,
+>>>>>>> Stashed changes
 =======
                  "id":1279,
 >>>>>>> Stashed changes
@@ -1329,8 +1429,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":989.335170592687,
                  "y":649.540344766313
+=======
+                 "x":1175.16432712215,
+                 "y":762.000933007986
+>>>>>>> Stashed changes
 =======
                  "x":1175.16432712215,
                  "y":762.000933007986
@@ -1340,7 +1445,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1428,
+=======
+                 "id":1280,
+>>>>>>> Stashed changes
 =======
                  "id":1280,
 >>>>>>> Stashed changes
@@ -1356,8 +1465,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":944.887170592687,
                  "y":650.561344766313
+=======
+                 "x":838.384327122153,
+                 "y":760.511933007986
+>>>>>>> Stashed changes
 =======
                  "x":838.384327122153,
                  "y":760.511933007986
@@ -1367,7 +1481,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1429,
+=======
+                 "id":1281,
+>>>>>>> Stashed changes
 =======
                  "id":1281,
 >>>>>>> Stashed changes
@@ -1383,8 +1501,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1074.13517059269,
                  "y":646.842344766313
+=======
+                 "x":886.764327122153,
+                 "y":760.746933007986
+>>>>>>> Stashed changes
 =======
                  "x":886.764327122153,
                  "y":760.746933007986
@@ -1394,7 +1517,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1430,
+=======
+                 "id":1282,
+>>>>>>> Stashed changes
 =======
                  "id":1282,
 >>>>>>> Stashed changes
@@ -1410,8 +1537,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1032.24517059269,
                  "y":647.864344766313
+=======
+                 "x":934.774327122153,
+                 "y":761.730933007986
+>>>>>>> Stashed changes
 =======
                  "x":934.774327122153,
                  "y":761.730933007986
@@ -1421,7 +1553,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1431,
+=======
+                 "id":1283,
+>>>>>>> Stashed changes
 =======
                  "id":1283,
 >>>>>>> Stashed changes
@@ -1437,8 +1573,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1117.55517059269,
                  "y":646.474344766313
+=======
+                 "x":983.604327122153,
+                 "y":761.965933007986
+>>>>>>> Stashed changes
 =======
                  "x":983.604327122153,
                  "y":761.965933007986
@@ -1448,7 +1589,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1432,
+=======
+                 "id":1284,
+>>>>>>> Stashed changes
 =======
                  "id":1284,
 >>>>>>> Stashed changes
@@ -1464,6 +1609,7 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1159.44517059269,
                  "y":646.842344766313
                 }, 
@@ -1472,6 +1618,8 @@
                  "height":64,
                  "id":1433,
 =======
+=======
+>>>>>>> Stashed changes
                  "x":1029.95432712215,
                  "y":688.787394409938
                 },
@@ -1480,6 +1628,9 @@
                  "gid":2566,
                  "height":64,
                  "id":1285,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                  "name":"",
                  "properties":[
@@ -1493,8 +1644,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":860.851314909418,
                  "y":719.854429057501
+=======
+                 "x":1078.33432712215,
+                 "y":689.021394409938
+>>>>>>> Stashed changes
 =======
                  "x":1078.33432712215,
                  "y":689.021394409938
@@ -1504,7 +1660,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1434,
+=======
+                 "id":1286,
+>>>>>>> Stashed changes
 =======
                  "id":1286,
 >>>>>>> Stashed changes
@@ -1520,8 +1680,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":902.230314909418,
                  "y":720.732429057501
+=======
+                 "x":1126.34432712215,
+                 "y":689.006394409938
+>>>>>>> Stashed changes
 =======
                  "x":1126.34432712215,
                  "y":689.006394409938
@@ -1531,7 +1696,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1435,
+=======
+                 "id":1287,
+>>>>>>> Stashed changes
 =======
                  "id":1287,
 >>>>>>> Stashed changes
@@ -1547,8 +1716,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":988.824314909418,
                  "y":720.038429057501
+=======
+                 "x":1175.16432712215,
+                 "y":689.241394409938
+>>>>>>> Stashed changes
 =======
                  "x":1175.16432712215,
                  "y":689.241394409938
@@ -1558,7 +1732,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1436,
+=======
+                 "id":1288,
+>>>>>>> Stashed changes
 =======
                  "id":1288,
 >>>>>>> Stashed changes
@@ -1574,8 +1752,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":944.376314909418,
                  "y":721.059429057501
+=======
+                 "x":838.384327122153,
+                 "y":687.752394409938
+>>>>>>> Stashed changes
 =======
                  "x":838.384327122153,
                  "y":687.752394409938
@@ -1585,7 +1768,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1437,
+=======
+                 "id":1289,
+>>>>>>> Stashed changes
 =======
                  "id":1289,
 >>>>>>> Stashed changes
@@ -1601,8 +1788,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1073.62431490942,
                  "y":717.340429057501
+=======
+                 "x":886.764327122154,
+                 "y":687.987394409938
+>>>>>>> Stashed changes
 =======
                  "x":886.764327122154,
                  "y":687.987394409938
@@ -1612,7 +1804,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1438,
+=======
+                 "id":1290,
+>>>>>>> Stashed changes
 =======
                  "id":1290,
 >>>>>>> Stashed changes
@@ -1628,8 +1824,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1031.73431490942,
                  "y":718.362429057501
+=======
+                 "x":934.774327122154,
+                 "y":688.971394409938
+>>>>>>> Stashed changes
 =======
                  "x":934.774327122154,
                  "y":688.971394409938
@@ -1639,7 +1840,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1439,
+=======
+                 "id":1291,
+>>>>>>> Stashed changes
 =======
                  "id":1291,
 >>>>>>> Stashed changes
@@ -1655,8 +1860,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1117.04431490942,
                  "y":716.972429057501
+=======
+                 "x":983.604327122153,
+                 "y":689.206394409938
+>>>>>>> Stashed changes
 =======
                  "x":983.604327122153,
                  "y":689.206394409938
@@ -1666,7 +1876,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1440,
+=======
+                 "id":1292,
+>>>>>>> Stashed changes
 =======
                  "id":1292,
 >>>>>>> Stashed changes
@@ -1682,8 +1896,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1158.93431490942,
                  "y":717.340429057501
+=======
+                 "x":1028.77124519373,
+                 "y":613.070150990831
+>>>>>>> Stashed changes
 =======
                  "x":1028.77124519373,
                  "y":613.070150990831
@@ -1693,7 +1912,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1441,
+=======
+                 "id":1293,
+>>>>>>> Stashed changes
 =======
                  "id":1293,
 >>>>>>> Stashed changes
@@ -1709,8 +1932,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":861.873026275957,
                  "y":789.33080198215
+=======
+                 "x":1077.15124519373,
+                 "y":613.304150990831
+>>>>>>> Stashed changes
 =======
                  "x":1077.15124519373,
                  "y":613.304150990831
@@ -1720,7 +1948,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1442,
+=======
+                 "id":1294,
+>>>>>>> Stashed changes
 =======
                  "id":1294,
 >>>>>>> Stashed changes
@@ -1736,8 +1968,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":903.252026275957,
                  "y":790.20880198215
+=======
+                 "x":1125.16124519373,
+                 "y":613.289150990831
+>>>>>>> Stashed changes
 =======
                  "x":1125.16124519373,
                  "y":613.289150990831
@@ -1747,7 +1984,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1443,
+=======
+                 "id":1295,
+>>>>>>> Stashed changes
 =======
                  "id":1295,
 >>>>>>> Stashed changes
@@ -1763,8 +2004,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":989.846026275957,
                  "y":789.51480198215
+=======
+                 "x":1173.98124519373,
+                 "y":613.524150990831
+>>>>>>> Stashed changes
 =======
                  "x":1173.98124519373,
                  "y":613.524150990831
@@ -1774,7 +2020,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1444,
+=======
+                 "id":1296,
+>>>>>>> Stashed changes
 =======
                  "id":1296,
 >>>>>>> Stashed changes
@@ -1790,8 +2040,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":945.398026275957,
                  "y":790.53580198215
+=======
+                 "x":837.20124519373,
+                 "y":612.035150990831
+>>>>>>> Stashed changes
 =======
                  "x":837.20124519373,
                  "y":612.035150990831
@@ -1801,7 +2056,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1445,
+=======
+                 "id":1297,
+>>>>>>> Stashed changes
 =======
                  "id":1297,
 >>>>>>> Stashed changes
@@ -1817,8 +2076,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1074.64602627596,
                  "y":786.81680198215
+=======
+                 "x":885.58124519373,
+                 "y":612.270150990831
+>>>>>>> Stashed changes
 =======
                  "x":885.58124519373,
                  "y":612.270150990831
@@ -1828,7 +2092,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1446,
+=======
+                 "id":1298,
+>>>>>>> Stashed changes
 =======
                  "id":1298,
 >>>>>>> Stashed changes
@@ -1844,8 +2112,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1032.75602627596,
                  "y":787.83880198215
+=======
+                 "x":933.59124519373,
+                 "y":613.254150990831
+>>>>>>> Stashed changes
 =======
                  "x":933.59124519373,
                  "y":613.254150990831
@@ -1855,7 +2128,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1447,
+=======
+                 "id":1299,
+>>>>>>> Stashed changes
 =======
                  "id":1299,
 >>>>>>> Stashed changes
@@ -1871,8 +2148,13 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1118.06602627596,
                  "y":786.44880198215
+=======
+                 "x":982.42124519373,
+                 "y":613.489150990831
+>>>>>>> Stashed changes
 =======
                  "x":982.42124519373,
                  "y":613.489150990831
@@ -1882,7 +2164,11 @@
                  "gid":2566,
                  "height":64,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "id":1448,
+=======
+                 "id":1300,
+>>>>>>> Stashed changes
 =======
                  "id":1300,
 >>>>>>> Stashed changes
@@ -1898,9 +2184,12 @@
                  "visible":true,
                  "width":32,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                  "x":1159.95602627596,
                  "y":786.81680198215
 =======
+=======
+>>>>>>> Stashed changes
                  "x":1026.99662230109,
                  "y":539.12753046436
                 }, 
@@ -2173,6 +2462,9 @@
                  "width":32,
                  "x":982.42124519373,
                  "y":906.89346923987
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
                 }],
          "opacity":1,
@@ -2666,7 +2958,12 @@
                  "x":1216,
                  "y":320
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
                 }, 
+=======
+                },
+            
+>>>>>>> Stashed changes
 =======
                 },
             
@@ -4339,6 +4636,9 @@
 =======
  "nextlayerid":15,
  "nextobjectid":1316,
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
  "orientation":"orthogonal",
  "renderorder":"right-down",
@@ -27557,8 +27857,11 @@
  "type":"map",
  "version":"1.10",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
  "width":80
 =======
+=======
+>>>>>>> Stashed changes
  "width":40
 >>>>>>> Stashed changes
 }

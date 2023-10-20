@@ -13,6 +13,7 @@ import 'swiper/css'
 import 'swiper/css/navigation'
 
 import Adam from '../images/login/Adam_login.png'
+import Wauzen from '../images/login/wauzen_login.gif'
 import Ash from '../images/login/Ash_login.png'
 import Lucy from '../images/login/Lucy_login.png'
 import Nancy from '../images/login/Nancy_login.png'
@@ -132,7 +133,10 @@ const avatars = [
   { name: 'ash', img: Ash },
   { name: 'lucy', img: Lucy },
   { name: 'nancy', img: Nancy },
+  { name: 'wauzen', img: Wauzen },
 ]
+
+
 
 // shuffle the avatars array
 for (let i = avatars.length - 1; i > 0; i--) {
@@ -160,6 +164,7 @@ export default function LoginDialog() {
       game.registerKeys()
       game.myPlayer.setPlayerName(name)
       game.myPlayer.setPlayerTexture(avatars[avatarIndex].name)
+      console.log(avatars[avatarIndex].name)
       game.network.readyToConnect()
       dispatch(setLoggedIn(true))
     }

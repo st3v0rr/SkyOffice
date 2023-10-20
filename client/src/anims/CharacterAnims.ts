@@ -124,6 +124,126 @@ export const createCharacterAnims = (anims: Phaser.Animations.AnimationManager) 
   })
 
   anims.create({
+    key: 'wauzen_idle_right',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 0,
+      end: 5,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate * 0.6,
+  })
+
+  anims.create({
+    key: 'wauzen_idle_up',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 6,
+      end: 11,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate * 0.6,
+  })
+
+  anims.create({
+    key: 'wauzen_idle_left',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 12,
+      end: 17,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate * 0.6,
+  })
+
+  anims.create({
+    key: 'wauzen_idle_down',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 18,
+      end: 23,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate * 0.6,
+  })
+
+  anims.create({
+    key: 'wauzen_run_right',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 24,
+      end: 29,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
+    key: 'wauzen_run_up',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 30,
+      end: 35,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
+    key: 'wauzen_run_left',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 36,
+      end: 41,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
+    key: 'wauzen_run_down',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 42,
+      end: 47,
+    }),
+    repeat: -1,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
+    key: 'wauzen_sit_down',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 48,
+      end: 48,
+    }),
+    repeat: 0,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
+    key: 'wauzen_sit_left',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 49,
+      end: 49,
+    }),
+    repeat: 0,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
+    key: 'wauzen_sit_right',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 50,
+      end: 50,
+    }),
+    repeat: 0,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
+    key: 'wauzen_sit_up',
+    frames: anims.generateFrameNames('wauzen', {
+      start: 51,
+      end: 51,
+    }),
+    repeat: 0,
+    frameRate: animsFrameRate,
+  })
+
+  anims.create({
     key: 'lucy_idle_right',
     frames: anims.generateFrameNames('lucy', {
       start: 0,

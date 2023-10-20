@@ -14,6 +14,7 @@ import 'swiper/css/navigation'
 
 import Adam from '../images/login/Adam_login.png'
 import Wauzen from '../images/login/wauzen_login.gif'
+import Mauzen from '../images/login/mauzen_login.png'
 import Ash from '../images/login/Ash_login.png'
 import Lucy from '../images/login/Lucy_login.png'
 import Nancy from '../images/login/Nancy_login.png'
@@ -134,6 +135,7 @@ const avatars = [
   { name: 'lucy', img: Lucy },
   { name: 'nancy', img: Nancy },
   { name: 'wauzen', img: Wauzen },
+  { name: 'mauzen', img: Mauzen },
 ]
 
 
